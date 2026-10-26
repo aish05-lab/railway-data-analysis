@@ -1,0 +1,11 @@
+RAILWAY DATA ANALYSIS
+Total trains: 10
+Total passengers: 7170
+Average delay: 28.50 minutes
+
+Top 5 most delayed trains:
+Passenger: 60 minutes
+Konkan_Express: 45 minutes
+Mail: 40 minutes
+Express: 35 minutes
+Duronto: 30 minutes

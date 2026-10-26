@@ -1,0 +1,11 @@
+Train_ID,Train_Name,Source,Destination,Distance_KM,Delay_Min,Passengers
+101,Deccan_Express,Mumbai,Pune,192,15,850
+102,Konkan_Express,Mumbai,Goa,590,45,720
+103,Shatabdi,Mumbai,Ahmedabad,491,5,900
+104,Duronto,Mumbai,Nagpur,837,30,650
+105,Intercity,Pune,Mumbai,192,20,780
+106,Passenger,Pune,Solapur,250,60,400
+107,Express,Delhi,Jaipur,308,10,820
+108,Superfast,Delhi,Agra,200,25,750
+109,Mail,Chennai,Bengaluru,350,40,600
+110,Express,Hyderabad,Pune,540,35,700
